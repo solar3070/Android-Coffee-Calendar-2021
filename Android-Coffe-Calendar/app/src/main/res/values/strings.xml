@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ma01_20170580</string>
+    <string name="api_key"><!--api key--></string>
+
+    <string name="notSelectMarker">장소를 선택하지 않았습니다.</string>
+    <string name="addRecordMessage">기록이 추가되었습니다.</string>
+    <string name="addRecordCancel">기록 추가를 취소했습니다.</string>
+    <string name="updateRecordMessage">기록이 수정되었습니다.</string>
+    <string name="updateRecordCancel">기록 수정을 취소했습니다.</string>
+    <string name="deleteSuccess">기록이 삭제되었습니다.</string>
+    <string name="deleteFail">기록 삭제에 실패했습니다.</string>
+
+    <string name="init_lat">37.604094</string>
+    <string name="init_lng">127.042463</string>
+
+    <string name="channel_name">Channel</string>
+    <string name="channel_description">카페인 과다 섭취에 대한 경고를 위한 알림 채널</string>
+    <string name="CHANNEL_ID">CHANNEL</string>
+</resources>
